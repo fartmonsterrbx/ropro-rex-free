@@ -1,3 +1,5 @@
+download my other extension for server sniper as it's not working on this one, however, the free ropro rex still works for server regions. https://github.com/fartmonsterrbx/roblox_server_sniper
+
 
 Unlock the Power of RoPro Rex for Free: Introducing Server Sniper Integration
 Elevate your RoPro experience with the inclusion of a cutting-edge Server Sniper. Now, you can obtain the coveted RoPro Rex without any cost.
